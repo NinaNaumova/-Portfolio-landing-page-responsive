@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>facebook-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m256 37.5v181c0 20.7-16.8 37.5-37.5 37.5h-60.5v-90.5h38l7.5-45h-45.5v-30.5h45.5v-45h-45.5c-24.8 0-45 20.2-45 45v30.5h-30v45h30v90.5h-75.5c-20.7 0-37.5-16.8-37.5-37.5v-181c0-20.7 16.8-37.5 37.5-37.5h181c20.7 0 37.5 16.8 37.5 37.5z"/>
+		</g>
+	</g>
+</svg>
